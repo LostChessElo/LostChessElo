@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring cloud and data engineer at WeThinkCode_<br>Python | SQL | Java <br>Connect with me on LinkedIn: www.linkedin.com/in/luke-ferley-459228397<br>"Procrastination is the arrogant assumption that god owes you a second oppertunity to do what you already had time to do"
+Aspiring cloud and data engineer at WeThinkCode_<br>Python | SQL | Java <br><br>"Procrastination is the arrogant assumption that god owes you a second oppertunity to do what you already had time to do"
 
 
 ## 🌐 Socials:
