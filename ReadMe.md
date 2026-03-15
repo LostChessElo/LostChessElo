@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luke+%F0%9F%91%8B;Aspiring+Cloud+%26+Data+Engineer;Builder+of+things+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luke+%F0%9F%91%8B;Aspiring+Cloud+%26+Data+Engineer+📈;Builder+of+things+that+matter+💻" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,8 +10,8 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 
 - 🔭 Currently building **VaultCLI** — an encrypted password manager with sudo-protected storage
 - 🌱 Working through **Java OOP** and backend architecture with FastAPI + PostgreSQL in Python
-- 🎯 Long term goals: Cloud engineering, Data engineering and Machine Learning.
-- ⚡ Outside of code: Music, Art and working out.
+- 🎯 Long term goals: Cloud engineering, Data engineering and Machine Learning
+- ⚡ Outside of code: Music, Art and working out
 
 > *"Procrastination is the arrogant assumption that God owes you a second opportunity to do what you already had time to do."*
 
@@ -20,7 +20,6 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-ferley-459228397)
-
 
 ---
 
@@ -74,7 +73,7 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 |---|---|---|
 | **VaultCLI** | Encrypted local password manager with sudo-protected storage | Python, bcrypt, Fernet |
 | **Schedula** | AI-powered personal scheduling system | FastAPI, PostgreSQL, Claude API |
-| **SapmMe** | Spam detection model trained to sort through emails | numpy, pandas, matplotlib, pytorch, tensorflow, nltk |
+| **SpamMe** | Spam detection model trained to sort through emails | NumPy, Pandas, PyTorch, TensorFlow, NLTK |
 
 ---
 
@@ -84,5 +83,5 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LostChessElo&style=for-the-badge&color=7aa2f7" />
+  <img src="https://komarev.com/ghpvc/?username=LostChessElo&style=for-the-badge&color=a8dadc" />
 </div>
