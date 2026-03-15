@@ -4,7 +4,7 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working across the full stack with a focus on backend systems, data engineering, and building tools I actually use.
 
@@ -17,13 +17,13 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 
 ---
 
-## 🌐 Socials
+# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-ferley-459228397)
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 **Languages**
 
@@ -67,7 +67,7 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 
 ---
 
-## 🏗️ Current Projects
+# 🏗️ Current Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -77,7 +77,7 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
