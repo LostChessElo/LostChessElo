@@ -72,7 +72,7 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 | Project | Description | Stack |
 |---|---|---|
 | **VaultCLI** | Encrypted local password manager with sudo-protected storage | Python, bcrypt, Fernet |
-| **Schedula** | AI-powered personal scheduling system | FastAPI, PostgreSQL, Claude API |
+| **FitQuest** | AI-powered gamified fitness and meal tracker using ai to come up with meal plans | FastAPI, PostgreSQL, Claude API |
 | **SpamMe** | Spam detection model trained to sort through emails | NumPy, Pandas, PyTorch, TensorFlow, NLTK |
 
 ---
