@@ -8,7 +8,7 @@
 
 I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working across the full stack with a focus on backend systems, data engineering, and building tools I actually use.
 
-- 🔭 Currently building **VaultCLI** — an encrypted password manager with sudo-protected storage.
+- 🔭 Currently building **FitQuest** — an ai powered gamified fitness, calorie and diet tracker using ai for smart meal plans.
 - 🌱 Working through **Java OOP** and backend architecture with FastAPI + PostgreSQL in Python, as well as Speckit.
 - 🎯 Long term goals: Cloud engineering, Data engineering and Machine Learning.
 - ⚡ Outside of code: Music, Art and working out.
