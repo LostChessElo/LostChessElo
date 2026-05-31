@@ -61,6 +61,18 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LostChessElo&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LostChessElo&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LostChessElo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
