@@ -20,6 +20,7 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-ferley-459228397)
+[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/luke-ferley)
 
 ---
 
