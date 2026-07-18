@@ -1,7 +1,7 @@
 <div align="center">
-    <img width="375" src="assests/THE-AMAZING-LOST-CHESS-ELO-removebg-preview.png" alt="Spider-Man"/>
+    <img width="375" src="assets/THE-AMAZING-LOST-CHESS-ELO-removebg-preview.png" alt="Spider-Man"/>
     <br>
-    <img height="350" src="assests/spider-man-ezgif.com-crop.gif" alt="Spider-Man"/>
+    <img height="350" src="assets/spider-man-ezgif.com-crop.gif" alt="Spider-Man"/>
 </div>
 
 
