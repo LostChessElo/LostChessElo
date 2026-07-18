@@ -14,7 +14,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/luke-ferley-459228397"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/luke-ferley"><img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-  <a href="mailto:lukeferley6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ###
@@ -82,8 +81,8 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=LostChessElo&hide_border=true&bg_color=0D1117&color=E23636&line=E23636&point=FFFFFF&title_color=E23636&custom_title=Contribution⠀Graph" />
 
 
-
 <img src="https://streak-stats.demolab.com/?user=LostChessElo&hide_border=false&background=0D1117&border=E23636&stroke=E23636&ring=E23636&fire=FFFFFF&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=E23636&sideLabels=F5F5F5&dates=8B949E" />
+
 </div>
 
 ---
