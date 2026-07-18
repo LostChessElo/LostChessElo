@@ -1,14 +1,17 @@
 <div align="center">
-    <img width="650" src="assests/THE-AMAZING-LOST-CHESS-ELO-removebg-preview.png" alt="Spider-Man"/>
-</div>
-
-
-<div align="center">
-    <img width="300" src="assests/miles-morales-pixel-art.gif" alt="Spider-Man"/>
+    <img width="450" src="assests/THE-AMAZING-LOST-CHESS-ELO-removebg-preview.png" alt="Spider-Man"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luke+%F0%9F%91%8B;Aspiring+Cloud+%26+Data+Engineer+📈;Builder+of+things+that+matter+💻" alt="Typing SVG" />
+    <img width="300" src="assests/spider-man.gif" alt="Spider-Man"/>
+</div>
+
+----------
+
+
+
+<div align="center">
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HEY%2C+I'M+LUKE+%F0%9F%91%8B;CLOUD+ENTHUSIAST+%26+JAVA+DEVELOPER;BUILDER+OF+THINGS+THAT+MATTER+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
