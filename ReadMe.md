@@ -1,5 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=588157&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luke+%F0%9F%91%8B;Aspiring+Cloud+%26+Data+Engineer+📈;Builder+of+things+that+matter+💻" alt="Typing SVG" />
+    <img width="650" src="assests/THE-AMAZING-LOST-CHESS-ELO-removebg-preview.png" alt="Spider-Man"/>
+</div>
+
+
+<div align="center">
+    <img width="300" src="assests/miles-morales-pixel-art.gif" alt="Spider-Man"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luke+%F0%9F%91%8B;Aspiring+Cloud+%26+Data+Engineer+📈;Builder+of+things+that+matter+💻" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luke-ferley-459228397"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.credly.com/users/luke-ferley"><img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+  <a href="mailto:lukeferley6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
@@ -14,13 +29,6 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 - ⚡ Outside of code: Music, Art and working out.
 
 > *"Procrastination is the arrogant assumption that God owes you a second opportunity to do what you already had time to do."*
-
----
-
-# 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-ferley-459228397)
-[![Credly](https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/luke-ferley)
 
 ---
 
