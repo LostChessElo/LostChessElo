@@ -6,9 +6,6 @@
     <img width="300" src="assests/spider-man.gif" alt="Spider-Man"/>
 </div>
 
-----------
-
-
 
 <div align="center">
   <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HEY%2C+I'M+LUKE+%F0%9F%91%8B;CLOUD+ENTHUSIAST+%26+JAVA+DEVELOPER;BUILDER+OF+THINGS+THAT+MATTER+💻" alt="Typing SVG" />
@@ -20,22 +17,20 @@
   <a href="mailto:lukeferley6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
----
+# 🕷️ About Me
 
-# 💫 About Me
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LostChessElo&data=followers,repositories,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working across the full stack with a focus on backend systems, data engineering, and building tools I actually use.
+I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, working across the full stack with a focus on backend systems, data engineering, cloud computing and building tools I actually use.
 
-- 🔭 Currently building "HabitForge" - A personal habit tracker where you define habits you want to build, check them off daily, and see your streaks and history
-- 🌱 Working through **Java OOP** and backend architecture with Springboot + PostgreSQL in Java, as well as Speckit.
+- 🌱 Working through **Cloud Computing** and backend architecture with Springboot + PostgreSQL in Java, as well as Speckit.
 - 🎯 Long term goals: Cloud engineering, Data engineering and Machine Learning.
 - ⚡ Outside of code: Music, Art and working out.
 
 > *"Procrastination is the arrogant assumption that God owes you a second opportunity to do what you already had time to do."*
 
----
 
-# 💻 Tech Stack
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +38,6 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,9 +51,15 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub CD](https://img.shields.io/badge/GitHub%20CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+</div>
 
 ---
 
@@ -67,22 +67,17 @@ I'm a peer tutor and aspiring cloud & data engineer at **WeThinkCode_**, working
 
 | Project | Description | Stack |
 |---|---|---|
-| **VaultCLI** | Encrypted local password manager with sudo-protected storage | Python, bcrypt, Fernet |
-| **HabitForge** | Habit tracker, check off habits daily to gain streaks | Springboot, PostgreSQL |
-| **SpamMe** | Spam detection model trained to sort through emails | NumPy, Pandas, PyTorch, TensorFlow, NLTK |
+| **serverless-crud-API** | serverless note taking api, create, read, update and delete notes | AWS Lambda, CloudWatch, IAM, API Gateway, Python, DynamoDB |
+| **Habit-tracker** | Habit tracker API, check off habits daily to gain streaks | Springboot, PostgreSQL |
+
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LostChessElo&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LostChessElo&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LostChessElo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<img alt="LostChessElo Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=LostChessElo&theme=github-compact&hide_border=true&custom_title=Contribution⠀Graph" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostChessElo&layout=compact&theme=transparent" />
 ---
 
 ## ✍️ Random Dev Quote
