@@ -6,10 +6,8 @@
 
 
 <div align="center">
-  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=D22B2B&center=true&vCenter=true&width=600&lines=HEY%2C+I'M+LUKE+%F0%9F%91%8B;CLOUD+ENTHUSIAST+%26+JAVA+DEVELOPER;BUILDER+OF+THINGS+THAT+MATTER+💻" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=D22B2B&center=true&vCenter=true&width=600&lines=HEY%2C+I'M+LUKE+%F0%9F%91%8B;JAVA+|+SQL+|+PYTHON+|+AWS+ENTHUSIAST;BUILDER+OF+THINGS+THAT+MATTER+💻" alt="Typing SVG" />
+  <br>
   <a href="https://www.linkedin.com/in/luke-ferley-459228397"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/luke-ferley"><img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 </div>
