@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=HEY%2C+I'M+LUKE+%F0%9F%91%8B;CLOUD+ENTHUSIAST+%26+JAVA+DEVELOPER;BUILDER+OF+THINGS+THAT+MATTER+💻" alt="Typing SVG" />
+  <img width="500" src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=32&pause=1000&color=D22B2B&center=true&vCenter=true&width=600&lines=HEY%2C+I'M+LUKE+%F0%9F%91%8B;CLOUD+ENTHUSIAST+%26+JAVA+DEVELOPER;BUILDER+OF+THINGS+THAT+MATTER+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,6 +17,7 @@
   <a href="mailto:lukeferley6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
+###
 # 🕷️ About Me
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LostChessElo&data=followers,repositories,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
@@ -31,6 +32,8 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 
 
 <div align="center">
+
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,17 +77,23 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 ---
 
 # 📊 GitHub Stats
+<div align="center">
 
-<img alt="LostChessElo Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=LostChessElo&theme=github-compact&hide_border=true&custom_title=Contribution⠀Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=LostChessElo&hide_border=true&bg_color=0D1117&color=E23636&line=E23636&point=FFFFFF&title_color=E23636&custom_title=Contribution⠀Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostChessElo&layout=compact&theme=transparent" />
+
+
+<img src="https://streak-stats.demolab.com/?user=LostChessElo&hide_border=false&background=0D1117&border=E23636&stroke=E23636&ring=E23636&fire=FFFFFF&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=E23636&sideLabels=F5F5F5&dates=8B949E" />
+</div>
+
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LostChessElo&style=for-the-badge&color=a8dadc" />
+  <img src="https://komarev.com/ghpvc/?username=LostChessElo&style=for-the-badge&color=FF1000" />
 </div>
