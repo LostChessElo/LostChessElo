@@ -79,6 +79,8 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 
 <img src="https://streak-stats.demolab.com/?user=LostChessElo&hide_border=false&background=0D1117&border=E23636&stroke=E23636&ring=E23636&fire=FFFFFF&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=E23636&sideLabels=F5F5F5&dates=8B949E" />
 
+<img src="https://github.com/LostChessElo/LostChessElo/blob/output/github-contribution-grid-snake.svg" alt="Typing SVG">
+
 </div>
 
 ---
