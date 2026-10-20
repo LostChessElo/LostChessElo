@@ -19,7 +19,7 @@
 
 I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, working across the full stack with a focus on backend systems, data engineering, cloud computing and building tools I actually use.
 
-- 🌱 Working through **Cloud Computing** and backend architecture with Springboot + PostgreSQL in Java, as well as Speckit.
+- 🌱 Working through **Cloud Computing** with AWS re/start and backend architecture with Springboot + PostgreSQL in Java, as well as Speckit.
 - 🎯 Long term goals: Cloud engineering, Data engineering and Machine Learning.
 - ⚡ Outside of code: Music, Art and working out.
 
