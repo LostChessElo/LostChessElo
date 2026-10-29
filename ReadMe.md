@@ -65,8 +65,8 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 
 | Project | Description | Stack |
 |---|---|---|
-| **serverless-crud-API** | serverless note taking api, create, read, update and delete notes | AWS Lambda, CloudWatch, IAM, API Gateway, Python, DynamoDB |
-| **Habit-tracker** | Habit tracker API, check off habits daily to gain streaks | Springboot, PostgreSQL |
+| **DMS** | Landing page brochure website made for Dineo Management Services PTY Ltd | Springboot 4, PostgreSQL, HTML5, CSS3, JavaScript |
+| **spam-detection** | multinomial naive bayes email classifier built from scratch without ML libraries | NumPy, Pandas, MNB, matplotlib |
 
 
 ---
