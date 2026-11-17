@@ -44,3 +44,9 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 ## ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+---
+<div align="center">
+  <a href="https://www.linkedin.com/in/luke-ferley-459228397"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.credly.com/users/luke-ferley"><img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+</div>
