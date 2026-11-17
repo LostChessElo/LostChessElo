@@ -21,8 +21,8 @@ I'm a peer tutor and aspiring cloud & software engineer at **WeThinkCode_**, wor
 ###
 ---
 
+#####
 <div align="center">
-<br>
 <img src="https://skillicons.dev/icons?i=python,java,postgres,js,css,html,docker&perline=7" width="600" alt="Tech stack" />
 </div>
 
